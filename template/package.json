@@ -1,0 +1,27 @@
+{
+  "name": "kindling-__template__",
+  "version": "0.1.0",
+  "description": "a kindling generator for __template__",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/__user__/kindling-__template__.git"
+  },
+  "keywords": [
+    "kindling",
+    "template",
+    "scaffold",
+    "scaffolding",
+    "bootstrap",
+    "utility",
+    "starter",
+    "generate",
+    "generator"
+  ],
+  "author": "__user__",
+  "license": "__license__",
+  "bugs": {
+    "url": "https://github.com/__user__/kindling-__template__/issues"
+  },
+  "homepage": "https://github.com/__user__/kindling-__template__"
+}
